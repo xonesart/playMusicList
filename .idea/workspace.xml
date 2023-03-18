@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="09cba5c8-6a21-4c78-a31b-1ef581053c92" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/PopMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/PopMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/RockMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +85,7 @@
       <updated>1678851933016</updated>
       <workItem from="1678851934330" duration="12881000" />
       <workItem from="1678955374131" duration="1215000" />
-      <workItem from="1679097488292" duration="1475000" />
+      <workItem from="1679097488292" duration="4675000" />
     </task>
     <task id="LOCAL-00001" summary="playMusicList">
       <created>1678906254148</created>
@@ -90,14 +94,33 @@
       <option name="project" value="LOCAL" />
       <updated>1678906254148</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Bean scoup (singleton &amp; prototype">
+      <created>1679099912695</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679099912695</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="playMusicList" />
-    <option name="LAST_COMMIT_MESSAGE" value="playMusicList" />
+    <MESSAGE value="Bean scoup (singleton &amp; prototype" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bean scoup (singleton &amp; prototype" />
   </component>
 </project>
