@@ -30,7 +30,8 @@
         </constructor-arg>
     </bean>
     <bean id="musicPlayer"
-            class="ua.studio.springcourse.MusicPlayer">
+            class="ua.studio.springcourse.MusicPlayer"
+                scope="prototype">
         <property name="musicList" ref="musicList" />
         <property name="name" value="${musicPlayer.name}"/>
         <property name="volume" value="${musicPlayer.volume}"/>
