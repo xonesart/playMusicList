@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09cba5c8-6a21-4c78-a31b-1ef581053c92" name="Changes" comment="">
+    <list default="true" id="09cba5c8-6a21-4c78-a31b-1ef581053c92" name="Changes" comment="Bean Lifecycle. Init, Destroy &amp; Factory method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/ClassicalMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/MusicPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/PopMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/PopMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/RockMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/studio/springcourse/TestSpring.java" afterDir="false" />
@@ -47,6 +49,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;shared-indexes&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;864a389329afff3fe7cbea4812cdbfa0&quot;
   }
 }</component>
@@ -85,7 +88,10 @@
       <updated>1678851933016</updated>
       <workItem from="1678851934330" duration="12881000" />
       <workItem from="1678955374131" duration="1215000" />
-      <workItem from="1679097488292" duration="4675000" />
+      <workItem from="1679097488292" duration="4990000" />
+      <workItem from="1679174721973" duration="6065000" />
+      <workItem from="1679240904343" duration="2395000" />
+      <workItem from="1679431997674" duration="3536000" />
     </task>
     <task id="LOCAL-00001" summary="playMusicList">
       <created>1678906254148</created>
@@ -101,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679099912695</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Bean Lifecycle. Init, Destroy &amp; Factory method">
+      <created>1679102933596</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679102933596</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,9 +131,21 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="playMusicList" />
     <MESSAGE value="Bean scoup (singleton &amp; prototype" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bean scoup (singleton &amp; prototype" />
+    <MESSAGE value="Bean Lifecycle. Init, Destroy &amp; Factory method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bean Lifecycle. Init, Destroy &amp; Factory method" />
   </component>
 </project>

@@ -1,5 +1,4 @@
 package ua.studio.springcourse;
-
 /**
  * @author Andre Murano
  */
